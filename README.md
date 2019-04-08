@@ -4,4 +4,4 @@ Hello there!
 
 Instruction
 ---
-Some instructions will be here
+1. clone project
