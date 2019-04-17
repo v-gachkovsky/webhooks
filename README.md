@@ -4,4 +4,4 @@ Hello there!
 
 Instruction
 ---
-1. add some step
+1. some step
