@@ -11,3 +11,4 @@ Instruction
 5. Do fifth step
 6. Do sixth step
 7. Do seventh step
+8. Do eighth step
