@@ -9,4 +9,4 @@ Instruction
 3. Do something again
 4. Do fourth step
 5. Do fifth step
-s
+6. Do sixth step
