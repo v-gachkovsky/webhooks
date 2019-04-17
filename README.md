@@ -10,3 +10,4 @@ Instruction
 4. Do fourth step
 5. Do fifth step
 6. Do sixth step
+7. Do seventh step
